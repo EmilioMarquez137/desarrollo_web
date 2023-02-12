@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparte tus viajes</title>
+</head>
+
+<body>
+    <h1>Comparte tus viajes</h1>
+    <h2>Nueva York - Central Park</h2>
+    <ul>
+        <li><a href="https://google.com" target="_blank" title="Google">Descripción</a></li>
+        <li><a href="https://google.com" target="_blank" title="Google">Fotos relacionadas</a></li>
+        <li><a href="https://google.com" target="_blank" title="Google">Comentarios</a></li>
+    </ul>
+
+    <h3>Descripción</h3>
+    <p>Foto de Randy Connolly</p>
+    <p>Esta foto del Estanque del Conservatorio en <a href="https://www.centralparknyc.org" target="_blank"
+            title="Central Park">Central Park</a> en <a href="https://www.nyc.gov" target="_blank" title="Central Park">
+            Ciudad de Nueva York</a>
+            fue tomada en Octubre 22, 2021 con una cámara Canon EOS30D.</p>
+            
+    <a href="images1/large-central-park.jpg"><img src="images1/centralpark.jpg"></a>
+    <p><i>Estanque del Conservatorio en Central Park</i></p>
+    Compartir: <img src="images1/email_16.png"> <img src="images1/facebook_16.png"> <img src="images1/flickr_16.png">
+    <img src="images1/rss_16.png"> <img src="images1/twitter_16.png">
+    <h3>Fotos relacionadas</h3>
+    <a href="images1/related-large1.jpg"><img src="images1/related-square1.jpg"></a>
+    <a href="images1/related-large2.jpg"><img src="images1/related-square2.jpg"></a>
+    <a href="images1/related-large3.jpg"><img src="images1/related-square3.jpg"></a>
+    <h2>Reseñas</h2>
+    <p>Por Ricardo 15 Septiembre ,2021
+    </p>
+    <p>Tranquilo con el HDR amigo
+    </p>
+    <p>-----------------------------------------------------------------------------------------------------</p>
+    <h2>Reseñas</h2>
+    <p>Por Susana en 1 Octubre, 2021
+    </p>
+    <p>Amo Central Park
+    </p>
+    <p>-----------------------------------------------------------------------------------------------------</p>
+    <a href="https://dle.rae.es/inicio" target="_blank" title="Inicio">Inicio | </a><a
+        href="https://dle.rae.es/navegaci%C3%B3n" target="_blank" title="Navegación">Navegación |</a>
+    <a href="https://dle.rae.es/buscar" target="_blank" title="Buscar"> Buscar</a>
+    <p><i>Copyright © 2022 Comparte Tus Viajes</i></p>
+    <p><i>Emilio Márquez Martínez</i></p>
+</body>
+
+</html>
